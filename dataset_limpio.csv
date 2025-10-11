@@ -1,0 +1,81 @@
+﻿ID_Venta,Fecha,Dia,Mes,Año,Trimestre,Nombre_Producto,Categoria,Subcategoria,Marca,Precio_Unitario,Nombre_Cliente,Sexo,Edad,Ciudad_Cliente,Estado_Cliente,Nombre_Sucursal,Ciudad_Sucursal,Estado_Sucursal,Región,Cantidad_Vendida,Ingreso_Total,Costo_Total,Ganancia
+1,2024-06-28,28,6,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Pedro López,M,36,Sur,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,3,7200.0,4320.0,2880.0
+2,2024-02-27,27,2,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Juan Pérez,M,59,<Na>,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,3,5370.0,3222.0,2148.0
+3,2024-05-11,11,5,2024,Q2,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,,F,19,Oeste,EstadoC,Sucursal Sur,CiudadC,EstadoC,Sur,3,2670.0,1602.0,1068.0
+4,2024-07-09,9,7,2024,Q3,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Laura Gómez,F,48,<Na>,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,220.4,132.24,88.16
+5,2024-05-03,3,5,2024,Q2,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Juan Pérez,M,24,Norte,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,3,5370.0,3222.0,2148.0
+6,2024-05-14,14,5,2024,Q2,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Juan Pérez,F,40,Norte,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,3,5370.0,3222.0,2148.0
+7,2024-04-12,12,4,2024,Q2,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Carlos Díaz,M,49,Sur,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,5,1102.0,661.2,440.8
+8,2024-01-28,28,1,2024,Q1,Audifonos Q,Electronicos,Audio,MarcaF,220.4,,M,23,Oeste,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,4,881.6,528.96,352.64
+9,2024-04-12,12,4,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Pedro López,M,68,Centro,EstadoC,Sucursal Centro,CiudadD,EstadoA,Centro,1,450.75,270.45,180.3
+10,2024-04-22,22,4,2024,Q2,Licuadora Pro,Hogar,Cocina,MarcaE,650.0,Ana Ruiz,F,45,Norte,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,3,1950.0,1170.0,780.0
+11,2024-05-24,24,5,2024,Q2,Camisa Casual,Ropa,Hombre,marcac,450.75,Laura Gómez,F,23,Norte,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,1,450.75,270.45,180.3
+12,2024-05-26,26,5,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,,M,57,<Na>,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,4,1803.0,1081.8,721.2
+13,2024-02-29,29,2,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,,Pedro López,M,49,Sur,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,3,3751.5,2250.9,1500.6
+14,2024-04-21,21,4,2024,Q2,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Ana Ruiz,F,63,Centro,EstadoB,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,1790.0,1074.0,716.0
+15,2024-05-24,24,5,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Carlos Díaz,F,39,Norte,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,3,1352.25,811.35,540.9
+16,2024-01-04,4,1,2024,Q1,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Juan Pérez,F,45,Norte,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,4,1803.0,1081.8,721.2
+17,2024-06-08,8,6,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Ana Ruiz,M,59,Sur,EstadoB,Sucursal Centro,CiudadD,EstadoA,Centro,2,4800.0,2880.0,1920.0
+18,2024-05-16,16,5,2024,Q2,"Smart Tv 50""",Electronicos,TV,marcaa,1250.5,Luis Torres,F,52,Centro,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,1250.5,750.3,500.2
+19,2024-04-01,1,4,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,María Fernández,M,42,Centro,EstadoC,Sucursal Centro,CiudadD,EstadoA,Centro,2,4800.0,2880.0,1920.0
+20,2024-02-29,29,2,2024,Q1,Licuadora Pro,Hogar,Cocina,Desconocida,650.0,Laura Gómez,F,62,<Na>,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,4,2600.0,1560.0,1040.0
+21,2024-07-01,1,7,2024,Q3,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,Luis Torres,M,26,Oeste,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,2,1780.0,1068.0,712.0
+22,2024-03-09,9,3,2024,Q1,Sofa 3P,Hogar,Muebles,Desconocida,2400.0,Carlos Díaz,M,39,Norte,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,2400.0,1440.0,960.0
+23,2024-02-02,2,2,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,María Fernández,M,53,Centro,EstadoC,Sucursal Centro,CiudadD,EstadoA,Centro,1,1790.0,1074.0,716.0
+24,2024-03-24,24,3,2024,Q1,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Juan Pérez,M,68,Sur,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,2,901.5,540.9,360.6
+25,2024-03-21,21,3,2024,Q1,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Ana Ruiz,M,58,Sur,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,5,12000.0,7200.0,4800.0
+26,2024-06-25,25,6,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Juan Pérez,M,49,<Na>,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,450.75,270.45,180.3
+27,2024-03-26,26,3,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Laura Gómez,F,58,Sur,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,4,5002.0,3001.2,2000.8
+28,2024-02-22,22,2,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Pedro López,F,56,Norte,EstadoC,Sucursal Sur,CiudadC,EstadoC,Sur,5,8950.0,5370.0,3580.0
+29,2024-06-22,22,6,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Ana Ruiz,M,19,Centro,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,5,12000.0,7200.0,4800.0
+30,2024-01-19,19,1,2024,Q1,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Carlos Díaz,M,20,Centro,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,4,9600.0,5760.0,3840.0
+31,2024-04-22,22,4,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Pedro López,F,61,Centro,EstadoA,Sucursal Centro,CiudadD,EstadoA,Centro,5,12000.0,7200.0,4800.0
+32,2024-05-22,22,5,2024,Q2,Audifonos Q,Electronicos,Audio,MarcaF,220.4,María Fernández,M,33,Sur,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,4,881.6,528.96,352.64
+33,2024-04-10,10,4,2024,Q2,Smartphone Z,Electronicos,Telefonia,MarcaD,,María Fernández,M,34,Norte,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,5,8950.0,5370.0,3580.0
+34,2024-02-25,25,2,2024,Q1,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,Pedro López,M,50,Norte,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,3,2670.0,1602.0,1068.0
+35,2024-05-08,8,5,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Juan Pérez,M,48,Centro,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,5,2253.75,1352.25,901.5
+36,2024-01-04,4,1,2024,Q1,Licuadora Pro,Hogar,Cocina,MarcaE,650.0,Ana Ruiz,F,48,<Na>,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,3,1950.0,1170.0,780.0
+37,2024-02-16,16,2,2024,Q1,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Ana Ruiz,M,68,Sur,EstadoB,Sucursal Centro,CiudadD,EstadoA,Centro,2,4800.0,2880.0,1920.0
+38,2024-01-30,30,1,2024,Q1,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Pedro López,M,21,Centro,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,5,12000.0,7200.0,4800.0
+39,2024-05-30,30,5,2024,Q2,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,María Fernández,F,25,Oeste,EstadoA,Sucursal Centro,CiudadD,EstadoA,Centro,5,6252.5,3751.5,2501.0
+40,2024-05-28,28,5,2024,Q2,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Ana Ruiz,M,31,Centro,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,1,220.4,132.24,88.16
+41,2024-04-08,8,4,2024,Q2,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Sofía Morales,F,31,Centro,EstadoC,Sucursal Sur,CiudadC,EstadoC,Sur,2,2501.0,1500.6,1000.4
+42,2024-01-18,18,1,2024,Q1,Licuadora Pro,Hogar,Cocina,MarcaE,650.0,,M,54,Oeste,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,2,1300.0,780.0,520.0
+43,2024-04-20,20,4,2024,Q2,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,Sofía Morales,F,66,Oeste,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,4,3560.0,2136.0,1424.0
+44,2024-01-21,21,1,2024,Q1,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Laura Gómez,F,28,Norte,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,1,220.4,132.24,88.16
+45,2024-03-15,15,3,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Juan Pérez,F,55,Sur,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,2,3580.0,2148.0,1432.0
+46,2024-05-19,19,5,2024,Q2,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,María Fernández,M,28,Sur,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,2,2501.0,1500.6,1000.4
+47,2024-04-10,10,4,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Sofía Morales,F,52,Norte,EstadoC,Sucursal Sur,CiudadC,EstadoC,Sur,4,9600.0,5760.0,3840.0
+48,2024-02-29,29,2,2024,Q1,Audifonos Q,Electronicos,Audio,MarcaF,220.4,,M,31,Oeste,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,3,661.2,396.72,264.48
+49,2024-04-13,13,4,2024,Q2,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,María Fernández,M,40,Sur,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,2,4800.0,2880.0,1920.0
+50,2024-07-10,10,7,2024,Q3,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,Juan Pérez,F,47,Sur,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,1,890.0,534.0,356.0
+51,2024-04-06,6,4,2024,Q2,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,Laura Gómez,M,41,Oeste,EstadoC,Sucursal Centro,CiudadD,EstadoA,Centro,4,3560.0,2136.0,1424.0
+52,2024-05-27,27,5,2024,Q2,Licuadora Pro,Hogar,Cocina,Desconocida,,María Fernández,F,25,Sur,EstadoC,Sucursal Sur,CiudadC,EstadoC,Sur,2,1300.0,780.0,520.0
+53,2024-03-08,8,3,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Juan Pérez,F,48,Centro,EstadoA,Sucursal Centro,CiudadD,EstadoA,Centro,1,1790.0,1074.0,716.0
+54,2024-01-01,1,1,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Sofía Morales,M,38,Sur,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,1,1250.5,750.3,500.2
+55,2024-06-10,10,6,2024,Q2,Aspiradora X,Hogar,Electrodomestico,Desconocida,890.0,Carlos Díaz,F,41,Norte,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,890.0,534.0,356.0
+56,2024-04-14,14,4,2024,Q2,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Sofía Morales,M,24,Norte,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,3,5370.0,3222.0,2148.0
+57,2024-03-18,18,3,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,María Fernández,F,66,Centro,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,1,1250.5,750.3,500.2
+58,2024-03-27,27,3,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Luis Torres,M,25,Norte,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,3,3751.5,2250.9,1500.6
+59,2024-02-04,4,2,2024,Q1,Aspiradora X,Hogar,Electrodomestico,Desconocida,890.0,Sofía Morales,F,60,<Na>,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,2,1780.0,1068.0,712.0
+60,2024-03-22,22,3,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Laura Gómez,M,59,Sur,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,4,7160.0,4296.0,2864.0
+61,2024-04-17,17,4,2024,Q2,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Sofía Morales,M,63,Sur,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,220.4,132.24,88.16
+62,2024-01-29,29,1,2024,Q1,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,María Fernández,F,38,Centro,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,890.0,534.0,356.0
+63,2024-06-16,16,6,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,Pedro López,M,27,Centro,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,2,901.5,540.9,360.6
+64,2024-05-28,28,5,2024,Q2,Licuadora Pro,Hogar,Cocina,MarcaE,650.0,Laura Gómez,M,56,<Na>,EstadoC,Sucursal Centro,CiudadD,EstadoA,Centro,5,3250.0,1950.0,1300.0
+65,2024-04-18,18,4,2024,Q2,Camisa Casual,Ropa,Hombre,Desconocida,450.75,Ana Ruiz,M,26,Norte,EstadoA,Sucursal Centro,CiudadD,EstadoA,Centro,2,901.5,540.9,360.6
+66,2024-01-19,19,1,2024,Q1,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Juan Pérez,M,34,Centro,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,3,5370.0,3222.0,2148.0
+67,2024-01-12,12,1,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,,Luis Torres,M,40,Centro,EstadoA,Sucursal Oeste,CiudadB,EstadoB,Oeste,5,6252.5,3751.5,2501.0
+68,2024-06-15,15,6,2024,Q2,Smartphone Z,Electronicos,Telefonia,MarcaD,1790.0,Luis Torres,M,31,Sur,EstadoC,Sucursal Sur,CiudadC,EstadoC,Sur,3,5370.0,3222.0,2148.0
+69,2024-06-01,1,6,2024,Q2,Licuadora Pro,Hogar,Cocina,Desconocida,650.0,Ana Ruiz,M,52,Centro,EstadoB,Sucursal Central,CiudadA,EstadoA,Norte,5,3250.0,1950.0,1300.0
+70,2024-07-03,3,7,2024,Q3,Audifonos Q,Electronicos,Audio,MarcaF,220.4,,F,47,Norte,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,1,220.4,132.24,88.16
+71,2024-06-29,29,6,2024,Q2,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Juan Pérez,M,41,Oeste,EstadoC,Sucursal Central,CiudadA,EstadoA,Norte,3,3751.5,2250.9,1500.6
+72,2024-02-21,21,2,2024,Q1,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,María Fernández,M,68,Centro,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,2,4800.0,2880.0,1920.0
+73,2024-04-08,8,4,2024,Q2,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Carlos Díaz,F,35,Norte,EstadoA,Sucursal Centro,CiudadD,EstadoA,Centro,5,6252.5,3751.5,2501.0
+74,2024-05-02,2,5,2024,Q2,Camisa Casual,Ropa,Hombre,MarcaC,450.75,,F,29,Centro,EstadoA,Sucursal Sur,CiudadC,EstadoC,Sur,3,1352.25,811.35,540.9
+75,2024-02-06,6,2,2024,Q1,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Pedro López,M,34,Centro,EstadoA,Sucursal Central,CiudadA,EstadoA,Norte,2,440.8,264.48,176.32
+76,2024-04-06,6,4,2024,Q2,Smartphone Z,Electronicos,Telefonia,marcad,1790.0,,M,59,Oeste,EstadoC,Sucursal Oeste,CiudadB,EstadoB,Oeste,5,8950.0,5370.0,3580.0
+77,2024-02-08,8,2,2024,Q1,Audifonos Q,Electronicos,Audio,MarcaF,220.4,Luis Torres,F,49,Centro,EstadoB,Sucursal Sur,CiudadC,EstadoC,Sur,2,440.8,264.48,176.32
+78,2024-03-03,3,3,2024,Q1,Aspiradora X,Hogar,Electrodomestico,MarcaB,890.0,Pedro López,M,39,Oeste,EstadoB,Sucursal Oeste,CiudadB,EstadoB,Oeste,4,3560.0,2136.0,1424.0
+79,2024-01-29,29,1,2024,Q1,Sofa 3P,Hogar,Muebles,MarcaG,2400.0,Laura Gómez,M,29,Sur,EstadoA,Sucursal Centro,CiudadD,EstadoA,Centro,3,7200.0,4320.0,2880.0
+80,2024-02-08,8,2,2024,Q1,"Smart Tv 50""",Electronicos,TV,MarcaA,1250.5,Laura Gómez,F,19,Sur,EstadoB,Sucursal Centro,CiudadD,EstadoA,Centro,3,3751.5,2250.9,1500.6
